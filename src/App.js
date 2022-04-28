@@ -1,6 +1,7 @@
 import React from 'react';
 import "bootstrap/dist/css/bootstrap.min.css";
 import NavbarComp from './Navigation/Navbar.js';
+import Math from './pages/Math.js';
 import school from './images/school.jpg';
 import './App.css';
 
@@ -23,7 +24,9 @@ function App() {
       </header>
       
 
-        
+      <div>
+        <Math/>
+      </div>
     </div>
     
     
