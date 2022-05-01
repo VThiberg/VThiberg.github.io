@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "School-App",
+  "name": "School Application",
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,13 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "image":[
-    {
-      "src": "images/school.jpg",
-      "type": "image/png",
-      "sizes": "4924x2770"
-    }
-  ],
+
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
